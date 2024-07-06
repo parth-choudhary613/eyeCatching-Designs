@@ -11,3 +11,6 @@
 
 # Magic-slider
 ![Screenshot 2024-07-06 101217](https://github.com/parth-choudhary613/eyeCatching-Designs/assets/149800353/de6f4d0c-b4b4-4dff-affc-38af143334e6)
+
+# Scroll-Animation
+![Screenshot 2024-07-06 101531](https://github.com/parth-choudhary613/eyeCatching-Designs/assets/149800353/2c4a7f46-253d-4116-aae2-582e2453df70)
