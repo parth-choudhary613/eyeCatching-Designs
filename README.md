@@ -8,3 +8,6 @@
 
 # Auto-Slider
 ![Screenshot 2024-07-06 100902](https://github.com/parth-choudhary613/eyeCatching-Designs/assets/149800353/6ff27cb6-71f4-449b-8dd2-2e30716f0dd7)
+
+# Magic-slider
+![Screenshot 2024-07-06 101217](https://github.com/parth-choudhary613/eyeCatching-Designs/assets/149800353/de6f4d0c-b4b4-4dff-affc-38af143334e6)
